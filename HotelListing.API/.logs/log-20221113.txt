@@ -1,0 +1,15 @@
+2022-11-13 22:01:03.301 -06:00 [INF] Now listening on: https://localhost:7253
+2022-11-13 22:01:03.391 -06:00 [INF] Now listening on: http://localhost:5191
+2022-11-13 22:01:03.398 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-13 22:01:03.400 -06:00 [INF] Hosting environment: Development
+2022-11-13 22:01:03.400 -06:00 [INF] Content root path: C:\API tutorial\HotelListing\HotelListing.API\
+2022-11-13 22:01:47.883 -06:00 [INF] Now listening on: https://localhost:7253
+2022-11-13 22:01:47.962 -06:00 [INF] Now listening on: http://localhost:5191
+2022-11-13 22:01:47.966 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-13 22:01:47.967 -06:00 [INF] Hosting environment: Development
+2022-11-13 22:01:47.968 -06:00 [INF] Content root path: C:\API tutorial\HotelListing\HotelListing.API\
+2022-11-13 22:02:25.368 -06:00 [INF] Now listening on: https://localhost:7253
+2022-11-13 22:02:25.491 -06:00 [INF] Now listening on: http://localhost:5191
+2022-11-13 22:02:25.515 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-13 22:02:25.748 -06:00 [INF] Hosting environment: Development
+2022-11-13 22:02:26.041 -06:00 [INF] Content root path: C:\API tutorial\HotelListing\HotelListing.API\
