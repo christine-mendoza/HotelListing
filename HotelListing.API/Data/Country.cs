@@ -13,6 +13,6 @@ namespace HotelListing.API.Data
 
         public string ShortName { get; set; }
 
-        public virtual IList<Hotel> Hotels { get; set; }
+        public virtual IList<Hotel>? Hotels { get; set; }
     }
 }
